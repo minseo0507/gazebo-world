@@ -1,0 +1,36 @@
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1610375323 336227458) [Msg] Waiting for master.
+(1610375323 346526888) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1610375323 346561079) [Msg] Publicized address: 192.168.30.68
+(1610375323 346796199) Loaded .ini file from: "/home/ggh/.gazebo/gui.ini"
+(1610375324 915718480) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/.gazebo/models/gazebo_models"
+(1610375324 915798239) model.config file is missing in directory["/home/ggh/.gazebo/models/gazebo_models"]
+(1610375324 916061569) Invalid filename or directory["/home/ggh/.gazebo/models/model2"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1610375324 917384116) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_autorace"
+(1610375324 917546474) model.config file is missing in directory["/home/ggh/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_autorace"]
+(1610375324 917685327) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_autorace_2020"
+(1610375324 917841204) model.config file is missing in directory["/home/ggh/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_autorace_2020"]
+(1610375324 918561989) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/Desktop/asd"
+(1610375324 918613906) model.config file is missing in directory["/home/ggh/Desktop/asd"]
+(1610375324 918656131) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/Desktop/asdasd"
+(1610375324 918715273) model.config file is missing in directory["/home/ggh/Desktop/asdasd"]
+(1610375324 918760817) Invalid filename or directory["/home/ggh/Desktop/first"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1610375324 918807483) Invalid filename or directory["/home/ggh/Desktop/map.pgm"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1610375324 918856304) Invalid filename or directory["/home/ggh/Desktop/map.yaml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1610375324 918907547) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/Desktop/sss"
+(1610375324 918956691) model.config file is missing in directory["/home/ggh/Desktop/sss"]
+(1610375324 919033303) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/Desktop/v.1"
+(1610375324 919082801) model.config file is missing in directory["/home/ggh/Desktop/v.1"]
+(1610375324 919123964) Invalid filename or directory["/home/ggh/Desktop/v_1.world"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1610375324 919177076) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/Desktop/xacro_stl_robot"
+(1610375324 919242837) model.config file is missing in directory["/home/ggh/Desktop/xacro_stl_robot"]
+(1610375324 919300116) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/ggh/Desktop/xacro_stl_robot2"
+(1610375324 919366847) model.config file is missing in directory["/home/ggh/Desktop/xacro_stl_robot2"]
+(1610375325 103761674) [Wrn] [Event.cc:61] Warning: Deleting a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+(1610375325 469305027) No spacenav daemon found. Spacenav functionality is disabled
+(1610375329 808625619) [Err] [ModelDatabase.cc:390] Unable to parse model.config for model[http://gazebosim.org/models/bin_4_dropping_task]

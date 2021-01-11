@@ -1,0 +1,14 @@
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1610375323 291667810) [Msg] Waiting for master.
+(1610375323 296155825) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1610375323 296196619) [Msg] Publicized address: 192.168.30.68
+(1610375325 64832380) applying Gaussian noise model with mean 0, stddev 0.01, bias 0
+(1610375326 224529497) Init world[default]
+(1610375326 394758460) [Wrn] [Event.cc:61] Warning: Deleting a connection right after creation. Make sure to save the ConnectionPtr from a Connect call
+(1610375326 396309580) applying Gaussian noise model with mean 0, stddev 0.007, bias 0
+(1610376141 217510465) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/pose/local/info, deleting message. This warning is printed only once.
